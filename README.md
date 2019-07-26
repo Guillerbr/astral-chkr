@@ -5,7 +5,11 @@ Astral-Checker by JKDev
 Proyecto realizado y adaptado por JKDev.
 
 
-contacto ICQ: @jkdev  
-join group public: https://icq.im/AoLFlsNExfOqSgFSD2A
+ICQ: @jkdev
+TELEGRAM: @MrPopos2
 
-[![IMAGE ALT TEXT](https://i9.ytimg.com/vi/TQ7MSGshEE4/mq3.jpg?sqp=CLCoxecF&rs=AOn4CLCMcspEi0f2U5Fk5WNRocejkVH_zQ)](https://www.youtube.com/watch?v=TQ7MSGshEE4&feature=youtu.be "AstralChecker")
+
+[![IMAGE ALT TEXT](https://ibb.co/47ZSsZ0)](https://www.youtube.com/watch?v=TQ7MSGshEE4&feature=youtu.be "AstralChecker")
+
+
+UPDATE v1.1 [BETA TESTECHK-PRO]
