@@ -9,7 +9,7 @@ ICQ: @jkdev
 TELEGRAM: @MrPopos2
 
 
-[![IMAGE ALT TEXT](https://ibb.co/47ZSsZ0)](https://www.youtube.com/watch?v=TQ7MSGshEE4&feature=youtu.be "AstralChecker")
+[![(https://ibb.co/47ZSsZ0)](https://www.youtube.com/watch?v=TQ7MSGshEE4&feature=youtu.be "AstralChecker")
 
 
 UPDATE v1.1 [BETA TESTECHK-PRO]
