@@ -1,6 +1,6 @@
-# astral-chkr
-Astral-Checker by JKDev 
-
+# ~~astral-chkr~~ - TesteCheck-PRO
+~~Astral-Checker by JKDev~~
+TesteCheck-PRO by JKDev 
 
 Proyecto realizado y adaptado por JKDev.
 
