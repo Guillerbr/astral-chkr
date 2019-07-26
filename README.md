@@ -10,6 +10,6 @@ TELEGRAM: @MrPopos2
 
 
 [![(https://ibb.co/47ZSsZ0)](https://www.youtube.com/watch?v=TQ7MSGshEE4&feature=youtu.be "AstralChecker")
-![New Update](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png)
+![New Update](https://ibb.co/47ZSsZ0)
 
 UPDATE v1.1 [BETA TESTECHK-PRO]
